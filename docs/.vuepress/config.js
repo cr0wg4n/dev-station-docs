@@ -6,6 +6,7 @@ export default defineUserConfig({
   description: 'The definitive Swiss Knife for developers!',
   head: [['link', { rel: 'icon', href: '/images/index.png' }]],
   theme: defaultTheme({
+    contributors: false,
     logo: '/images/index.png',
     navbar: [
       {
