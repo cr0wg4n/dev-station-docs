@@ -18,14 +18,20 @@ features:
 ---
 
 ### Screenshots
+> 🏗️ More features are coming!
 
 <Carousel />
 
-> 🏗️ More features are coming!
-
-<br>
+Author: [Mauricio M.](https://github.com/cr0wg4n)
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/cr0wg4n" rel="noopener" target="_blank">cr0wg4n</a> 
+  Contact us to
+  <a href="mailto:support@lowleveltech.com" rel="noopener" target="_blank">
+    support@lowleveltech.com
+  </a> 
 </p>
 
+
+<!-- <p align="center">
+  Made with ❤️ by <a href="https://github.com/cr0wg4n" rel="noopener" target="_blank">cr0wg4n</a> 
+</p> -->
