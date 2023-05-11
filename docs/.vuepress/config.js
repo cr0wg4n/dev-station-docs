@@ -10,8 +10,8 @@ export default defineUserConfig({
   head: [
     ['link', { rel: 'icon', href: '/images/main_310.png' }],
     ['meta', { property: 'og:title', content: 'Dev Station Extension'}],
-    ['meta', { property: 'og:description', content: 'The definitive Swiss Knife for developers!'}],
-    ['meta', { property: 'og:image', content: '/images/banner.png'}],
+    ['meta', { property: 'og:description', content: 'The definitive Swiss Knife extension for developers!'}],
+    ['meta', { property: 'og:image', content: 'https://dev-station.lowleveltech.com/images/banner.png'}],
     ['meta', { property: 'og:url', content: 'https://dev-station.lowleveltech.com'}],
   ],
   theme: defaultTheme({
