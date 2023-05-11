@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: /images/index.png
+heroImage: /images/main.png
 
 actions:
   - text: Download
@@ -9,15 +9,22 @@ actions:
     type: secondary
 
 features:
-  - title: Quotes for your soul
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: CSS Debugger
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: RSS Checker
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+  - title: 🧙‍♂️ Quotes for your soul
+    details: A new random quote when you open the extension.
+  - title: 🧁 CSS Debugger
+    details: Shows the true appearance of HTML elements, save your time.
+  - title: 📰 RSS Checker
+    details: Checks if the domain have some RSS sources, it scrapes and verifies common URL patterns for RSS feeds.
 ---
+
+### Screenshots
+
+<Carousel />
+
 > 🏗️ More features are coming!
+
 <br>
+
 <p align="center">
   Made with ❤️ by <a href="https://github.com/cr0wg4n" rel="noopener" target="_blank">cr0wg4n</a> 
 </p>
