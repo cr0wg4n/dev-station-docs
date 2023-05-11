@@ -22,6 +22,7 @@ const images = ref([
   '/screenshots/img_1.png',
   '/screenshots/img_2.png',
   '/screenshots/img_3.png',
+  '/screenshots/img_4.png',
 ])
 </script>
 

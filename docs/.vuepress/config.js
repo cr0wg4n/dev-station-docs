@@ -1,5 +1,6 @@
 import { defineUserConfig, defaultTheme } from 'vuepress'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 import path from 'path'
 
 export default defineUserConfig({
@@ -7,7 +8,11 @@ export default defineUserConfig({
   title: 'Dev Station Extension',
   description: 'The definitive Swiss Knife for developers!',
   head: [
-    ['link', { rel: 'icon', href: '/images/main_310.png' }]
+    ['link', { rel: 'icon', href: '/images/main_310.png' }],
+    ['meta', { property: 'og:title', content: 'Dev Station Extension'}],
+    ['meta', { property: 'og:description', content: 'The definitive Swiss Knife for developers!'}],
+    ['meta', { property: 'og:image', content: '/images/banner.png'}],
+    ['meta', { property: 'og:url', content: 'https://dev-station.lowleveltech.com'}],
   ],
   theme: defaultTheme({
     contributors: false,
@@ -30,6 +35,9 @@ export default defineUserConfig({
   plugins: [
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components'),
+    }),
+    googleAnalyticsPlugin({
+      id: 'G-EESH637XWJ'
     })
   ]
 })

@@ -1,10 +1,9 @@
 ---
 home: true
-title: Home
 heroImage: /images/main.png
 
 actions:
-  - text: Download
+  - text: Get Dev Station at Chrome Web Store
     link: https://chrome.google.com/webstore
     type: secondary
 
