@@ -4,7 +4,7 @@ heroImage: /images/main.png
 
 actions:
   - text: Get Dev Station at Chrome Web Store
-    link: https://chrome.google.com/webstore
+    link: https://chrome.google.com/webstore/detail/dev-station/dkdmpjoenjmbfmkiolekeclfmgcjalbg
     type: secondary
 
 features:
