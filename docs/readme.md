@@ -8,12 +8,14 @@ actions:
     type: secondary
 
 features:
-  - title: 🧙‍♂️ Quotes for your soul
-    details: A new random quote when you open the extension.
   - title: 🧁 CSS Debugger
     details: Shows the true appearance of HTML elements, save your time.
   - title: 📰 RSS Checker
     details: Checks if the domain have some RSS sources, it scrapes and verifies common URL patterns for RSS feeds.
+  - title: 📝 Lorem Ipsum Generator
+    details: Customize your Lorem Ipsums, and generate paragraphs aleatorily. 
+  - title: 🧙‍♂️ Quotes for your soul
+    details: A new random quote when you open the extension.
 ---
 
 ### Screenshots
