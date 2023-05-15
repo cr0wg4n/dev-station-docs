@@ -2,6 +2,7 @@ import { defineUserConfig, defaultTheme } from 'vuepress'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 import path from 'path'
+import socialSharePlugin from 'vuepress-plugin-social-share'
 
 
 const description = 'The definitive Swiss Knife extension for developers! By developers, for developers'
@@ -49,7 +50,8 @@ export default defineUserConfig({
     }),
     googleAnalyticsPlugin({
       id: 'G-EESH637XWJ'
-    })
+    }),
+    socialSharePlugin()
   ]
 })
 
