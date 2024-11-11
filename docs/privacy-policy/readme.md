@@ -1,7 +1,5 @@
 # Privacy Policy
 
-Last updated: 12/05/2023
-
 This Privacy Policy describes how information is collected, used, and protected when you use our Chrome extension called `Dev Station`. By installing and using this extension, you agree to the terms and conditions of this Privacy Policy.
 
 ## About the features

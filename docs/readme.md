@@ -3,7 +3,7 @@ home: true
 heroImage: /images/main.png
 
 actions:
-  - text: Get Dev Station at Chrome Web Store
+  - text: Get "Dev Station" at Chrome Web Store
     link: https://chrome.google.com/webstore/detail/dev-station/dkdmpjoenjmbfmkiolekeclfmgcjalbg
     type: secondary
 
@@ -19,6 +19,7 @@ features:
 ---
 
 ### Screenshots
+Please feel free to share it with your friends and leave more ideas and tools you'd like to see in the extension.
 > 🏗️ More features are coming!
 
 <Carousel />
