@@ -24,6 +24,8 @@ Please feel free to share it with your friends and leave more ideas and tools yo
 
 <Carousel />
 
+<ContributorsWall />
+
 Author: [Mauricio M.](https://github.com/cr0wg4n)
 
 <p align="center">
@@ -32,8 +34,3 @@ Author: [Mauricio M.](https://github.com/cr0wg4n)
     support@lowleveltech.com
   </a> 
 </p>
-
-
-<!-- <p align="center">
-  Made with ❤️ by <a href="https://github.com/cr0wg4n" rel="noopener" target="_blank">cr0wg4n</a> 
-</p> -->
